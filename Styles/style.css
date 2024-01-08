@@ -1,0 +1,262 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Sora', sans-serif;
+}
+
+.header {
+    background-image:url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    /* line-height: 50px; */
+}
+ .b-content {
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    padding-top: 50px;
+    gap: 20px;
+}
+.bb-content {
+    color: #FFF;
+    text-align: center;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 900;
+}
+.offer {
+    color: #F00;
+text-align: center;
+font-size: 90px;
+font-style: normal;
+font-weight: 700;
+}
+.offer-description {
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.deals {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500; 
+}
+.img {
+    background-image: url('../resources/New\ Year\ Photo.png');
+    width: 800px;
+    height: 500px;
+    margin-left: 300px;  
+}
+.back-img {
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin-top: 80px;
+}
+.greeding {
+    color: #FFF;
+font-size: 70px;
+font-style: normal;
+font-weight: 900;
+padding: 200px 30px 30px 40px;
+margin: 0%;
+}
+#paragraph {
+    color:white;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+padding: 0px 0px 0px 50px; 
+margin:0%;
+}
+.btn {
+color: black;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+text-transform: uppercase;
+ margin:30px 0 0 40px;
+} 
+ .det {
+    background-color: bisque;
+    width: 1320px;
+    height: 750px;
+    margin-top: 70px ;
+
+ }
+ .div p{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 30px;
+    padding-top: 100px ;
+    margin-top: 50px;
+    background-color: indianred;
+    height: 450px;
+    width: 1320px;
+ }
+ .inline {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 60px;
+    padding-top: 100px ;
+    margin-top: 50px;
+ }
+ .button {
+    color: whitesmoke;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900 ;
+    background-color: #F00;
+ }
+.container {
+    width: 600px;
+    max-width: 1320px;
+    margin: 30px 30px  30px 300px;
+    padding: auto;
+}
+.ban {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 90px;
+}
+.ban .ban-text h1{
+    color: #F00;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.ban .ban-text h3{
+    color: black;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;  
+}  
+.ban-img{
+    background-image: url('../resources/Ellipse\ 1.png');
+}
+ .ban .ban-img{
+ width: 400px;
+height: 400px;
+flex-shrink: 0;
+border-radius: 460px;
+border: 15px solid #F00;
+background-position: center;
+background-repeat: no-repeat;
+ }
+ .text {
+    text-align: center;
+ }
+ .text h3 {
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: auto;
+ }
+ .text h1{
+ color: #070211;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+ }
+.ractangle-img {
+   background-image: url('../resources/Rectangle\ 1.png');
+    width: 400px;
+    height: 430px;
+    flex-shrink: 0;
+    border-radius: 16px 16px 0px 0px;
+    margin: 0 0 0 900px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+.circle {
+    width: 20px;
+height: 20px;
+flex-shrink: 0;
+margin: 0 0 0 730px;
+}
+.top img {
+    width: 450px;
+    height: 200px;
+    flex-shrink: 0;
+    margin-left: 80px;
+}
+ .ractangle1-img {
+   background-image:url('../resources/Rectangle\ 2.png') ;
+   width: 1310px;
+   height: 200px;
+   flex-shrink: 0;
+   border-radius: 16px 0px 16px 16px;
+   background: #F00;
+}
+.gamil {
+    margin-top: 50px;
+    text-align: center;
+}
+footer {
+    margin-top: 50px;
+    background-color: black;
+    height: 500px;
+    width: 1320px;  
+}
+.foot p {
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-left: 100px;
+    color: #FFF;
+    font-size: 18px;   
+}
+.icon {
+    text-align: right;
+    padding-bottom:10px ;
+    padding-right: 150px;
+    line-height: 40px;
+}
+.icons {
+    display: flex;
+    margin-left: 500px;
+     gap: 30px;
+}
+.f-test {
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    margin:20px 30px 20px 30px;
+}
+
+
+
